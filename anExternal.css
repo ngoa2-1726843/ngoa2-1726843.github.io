@@ -1,0 +1,40 @@
+ p.a {
+    font-family: "Times New Roman", Times, serif;
+}
+            
+p.b {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: coral;
+}
+div {
+    border-style: dotted;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+    }
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#rcorners1 {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;  
+}
+span {
+    float: left;
+    width: 0.7em;
+    font-size: 400%;
+    font-family: algerian, courier;
+    line-height: 80%;
+}
+  
